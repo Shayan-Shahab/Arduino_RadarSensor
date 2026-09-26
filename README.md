@@ -19,9 +19,10 @@ them into the final build.
 
 ## Progress
 - [x] DHT11 wired and tested standalone
-- [ ] Photoresistor wired and tested standalone
-- [ ] Combine both sensors with the radar sketch
-- [ ] Build the Processing display with sensor stats panel
+- [x] Photoresistor wired and tested standalone
+- [x] Combine both sensors with the radar sketch
+- [x] Build the Processing display with sensor stats panel
+- [ ] Gluing/Make pretty
 - [ ] Record demo video
 
 ## Why this project
